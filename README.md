@@ -1,2 +1,2 @@
 # Data-structures-and-algorithms
-Sample windows forms application, using C# and DSA
+Sample Windows Forms Application built with C# and demonstrating the use of Data Structures and Algorithms (DSA).
